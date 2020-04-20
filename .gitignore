@@ -8,3 +8,6 @@ windows/redist
 *.suo
 *.app*
 .DS_Store
+/.vs/powertabeditor/v16
+/.vs
+/out/build/x64-Debug
